@@ -4,6 +4,7 @@ import ControlledInput from './components/ControlledInput';
 
 
 ReactDOM.render(
-  <div>Mount Components Here</div>,
+ <ControlledInput />
+
   document.getElementById('root')
 );
